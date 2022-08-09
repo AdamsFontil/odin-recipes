@@ -15,6 +15,6 @@ Other ideas that I have for this site is to practice with organizinng this websi
 
 --- Plan ---
 1. My thoughts on veganism
-2. Recipes(best damn vegan chili, quinoa mexican bowl, vegan burger, and creamy vegan pasta)
+2. Recipes(best damn vegan chili, quinoa mexican bowl, vegan burger)
 3. Images (jpg, png, svg, gif)
 4. Links to sources to give thanks and credit.
